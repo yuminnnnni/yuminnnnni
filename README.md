@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **yuminnnnni/yuminnnnni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Yumin's%20Github!%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=130)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCBCB&text=Welcome%20to%20Yumin's%20Github!%20👋&animation=twinkling&fontSize=30&fontAlignY=50&fontAlign=50&height=100&fontColor=FFFFFF)
 
 ## 💻 DEV's log 💻
 <a href="https://velog.io/@ka09023">
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
 </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuminnnnni)](https://github.com/bi-sz/velog-readme-stats)
-
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -35,7 +32,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=black"> 
         <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black">
-        <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=tailwindcss&logoColor=black">
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=tailwindcss&logoColor=black">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div><br>
 </div>
