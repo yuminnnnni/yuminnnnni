@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuminnnnni&layout=compact)
+
+![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuminnnnni&show_icons=true&theme=radical)
