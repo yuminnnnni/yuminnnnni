@@ -23,12 +23,9 @@
 
 - **아주대학교 소프트웨어학과 (2021.03 ~ ing)**  
 
-<br />
 
 ### 🔨 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -42,8 +39,6 @@
         <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white">
         <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white">
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white">
-
-
 </div>
 
 ### 💻 DEV's log
