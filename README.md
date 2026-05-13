@@ -1,11 +1,10 @@
-<!-- <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5e55d&height=180&text=Yumin&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>     -->
-
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5e55d&height=240&text=Yumin&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5e55d&height=180&text=Yumin&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
-    
+
+<!-- <div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5e55d&height=240&text=Yumin&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+</div> -->
 
 ### 💼 Career
 - **Litmers Frontend Developer Intern**  <sub>2025.08 — 2025.11</sub>
