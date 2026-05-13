@@ -15,7 +15,6 @@
 - **Google Developer Student Clubs Ajou**  <sub>2023.09 — 2024.03</sub>
 - **Ajou Univ IT Networking Club Do-iT!** <sub>2022.03 — 2024.12</sub>
   
-
 ---
 
 ### 🎓 Education
@@ -29,8 +28,6 @@
 <a href="https://velog.io/@ka09023">
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
 </a>
-
----
 
 <!-- <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminnnnni&layout=compact" alt="Top Langs" />
