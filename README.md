@@ -23,7 +23,6 @@
 
 ### 🎓 Education
 
-- **Kakaotech Bootcamp Fullstack**  <sub>2026.05 — Present</sub>
 - **Ajou University — B.S. in Software**  <sub>2021.03 — Present</sub>
 
 ---
