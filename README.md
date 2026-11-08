@@ -7,7 +7,8 @@
 </div> -->
 
 ### 💼 Career
-- **Litmers Frontend Developer Intern**  <sub>2025.08 — 2025.11</sub>
+- **POSTYPE Frontend Engineer**  <sub>2026.07 — ing</sub>
+- **Litmers Frontend Engineer Intern**  <sub>2025.08 — 2025.11</sub>
 
 ---
 
